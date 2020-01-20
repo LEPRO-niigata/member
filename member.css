@@ -84,6 +84,7 @@ p {
 .member {
   height: 400px;
   padding-bottom: 40px;
+  padding-top:20px;
 }
 .member h1 {
   display: inline-block;
