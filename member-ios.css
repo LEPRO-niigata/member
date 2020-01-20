@@ -68,7 +68,7 @@
     border-bottom: solid 2px black;
   }
   .member {
-    height: 240px;
+    height: 260px;
     padding: 6px 0 18px 0;
   }
   .member h1 {
@@ -80,12 +80,17 @@
     font-size: 15px;
     width: 100%;
   }
+  .aa {
+    width: 40%;
+  }
+  .bb {
+    width: 60%;
+  }
   .pic {
-    height: 195px;
-    width: 30%;
-    margin: 21px 18px 0 18px;
+    height: 80px;
+    width: 25%;
+    margin: 0 18px 0 18px;
     float: right;
-    display: none;
   }
   footer {
     height: 90px;
