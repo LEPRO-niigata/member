@@ -111,6 +111,7 @@ p {
   width: 300px;
   float: right;
   display: inline-block;
+  margin: 50px 0;
 }
 footer {
   height: 160px;
