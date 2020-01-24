@@ -97,6 +97,7 @@
     width : 100px;
     display: inline-block;
     float: right;
+    margin: 0;
   }
   footer {
     height: 90px;
