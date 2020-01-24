@@ -104,8 +104,10 @@ p {
 .pic {
   height: 325px;
   width: 35%;
-  margin: 35px 0 0 0;
   float: right;
+  display: inline-block;
+}
+.pic2 {
   display: inline-block;
 }
 footer {
